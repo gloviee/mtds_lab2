@@ -40,12 +40,14 @@ cd mtds_lab2
 
 ### 2. Run demo
 ```cmd 
-python main.py```
+python main.py
+```
 
 
 ### 3. Run unit test
 ```cmd
-python -m unittest discover```
+python -m unittest discover
+```
 
 ### Failed unit test commit 
 
