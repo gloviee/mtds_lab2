@@ -1,3 +1,5 @@
+from array_list import ArrayList
+
 if __name__ == "__main__":
     lst = ArrayList()
     lst.append('a')
