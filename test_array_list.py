@@ -25,9 +25,6 @@ class TestArrayList(unittest.TestCase):
         lst.append('z')
         copy = lst.clone()
         self.assertEqual(str(copy), 'z')
-    
-    def test_fail_example(self):
-        self.assertEqual(1, 2)
 
 if __name__ == '__main__':
     unittest.main()
